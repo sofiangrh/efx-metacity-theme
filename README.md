@@ -1,4 +1,4 @@
 efx-metacity-theme
 ==================
 
-Elegant metacity border 
+Elegant metacity theme border 
